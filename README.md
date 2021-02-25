@@ -1,4 +1,8 @@
 # Automated-paste-from-clipboard
+It's helpful, where copy and paste option is disabled in some websites.
+You can make it even more advance by giving the path of text editing file so that it automatically paste everything you copy somewhere, which can be run in background.
+
+
 Run the followings in the Command Prompt:
 1. pip install pyautogui
 2. pip install pyperclip
