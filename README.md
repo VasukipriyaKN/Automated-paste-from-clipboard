@@ -1,5 +1,6 @@
 # Automated-paste-from-clipboard
 It's helpful, where copy and paste option is disabled in some websites.
+It's also helps while makeing note from online.
 You can make it even more advance by giving the path of text editing file so that it automatically paste everything you copy somewhere, which can be run in background.
 
 
@@ -16,4 +17,4 @@ Working:
 3. When you moved into another window, keep the cursor at the desired place.
 4. Wait for 5 sec, it will automatically paste.
 
-![](Video.mp4)
+You can watch the instruction video HTTPS://github.com/VasukipriyaKN/Automated-paste-from-clipboard/blob/main/Video.mp4
