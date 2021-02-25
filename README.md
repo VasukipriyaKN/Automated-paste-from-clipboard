@@ -17,4 +17,4 @@ Working:
 3. When you moved into another window, keep the cursor at the desired place.
 4. Wait for 5 sec, it will automatically paste.
 
-You can watch the instruction video HTTPS://github.com/VasukipriyaKN/Automated-paste-from-clipboard/blob/main/Video.mp4
+You can download and watch the video HTTPS://github.com/VasukipriyaKN/Automated-paste-from-clipboard/blob/main/Video.mp4
