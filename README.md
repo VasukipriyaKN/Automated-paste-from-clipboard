@@ -16,3 +16,4 @@ Working:
 3. When you moved into another window, keep the cursor at the desired place.
 4. Wait for 5 sec, it will automatically paste.
 
+![]()
